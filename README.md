@@ -1,4 +1,4 @@
-# Meu Projeto
+# DESAFIO DE PROJETO - Desenvolvendo um Projeto com o Paradigma de Programação Orientado à Aspectos
 
 Este é um projeto desenvolvido em C++ e Java, com o objetivo de implementar uma solução envolvendo o Paradigma de Programação Orientado a Aspectos em um sistema bancário.
 
